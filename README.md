@@ -1,0 +1,2 @@
+# Bike-Sharing-Demand-Analysis
+Bike Sharing Dataset contains the hourly count of rental bikes related to the bike-sharing program of Washington DC for the years 2011 and 2012. The dataset contains 17 variables with 17379 rows. The count of bicycles rented is highly correlated to seasonal and environmental factors. Day of the week, season, an hour of the day, weather conditions can significantly affect the rental behaviors. Target Variable: Count - Count of total rental bikes. The data is collected from UCI Machine Learning Repository.
